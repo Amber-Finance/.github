@@ -1,4 +1,4 @@
-![amber-finance](https://raw.githubusercontent.com/amber-finance/.github/main/profile/image.png)
+![amber-finance](https://raw.githubusercontent.com/Amber-Finance/.github/refs/heads/main/profile/image.png)
 
 # Amber Finance
 
