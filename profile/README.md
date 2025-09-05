@@ -8,8 +8,10 @@ The `amber-finance` GitHub organization hosts a series of repositories related t
 
 - [Amber Finance Landing][1]
 - [Amber Finance App][2]
-- [Amber Finance Docs][3]
+- [Amber Finance Bridge][3]
+- [Amber Finance Docs][4]
 
 [1]: https://amberfi.io/
 [2]: https://app.amberfi.io/
-[3]: https://docs.amberfi.io/
+[3]: https://bridge.amberfi.io/
+[4]: https://docs.amberfi.io/
